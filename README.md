@@ -42,30 +42,5 @@ If you want to select metapaths with incremental metapath optimization, run `inc
 ![image](https://github.com/user-attachments/assets/a5490264-1867-486f-98d8-f481821b5d98)
 
 
----
-
-
-## **💪 Contribution**
-
-✅ **MSGAT (Metapath-based Synchronized Graph Attention Network) 새로운 모델 개발 및 최적화**
-
-✅ **Cross-type Synchronization 기법 개발 → 노드 유형 간 정보 공유를 통한 예측 성능 개선**
-
-✅ **Incremental Metapath Optimization 기법 개발 → 성능 향상을 극대화하는 최적의 메타패스 선택**
-
-- **통계적 유의성 검증(Paired t-test)을 통해** **불필요한 메타패스 제외**
-- **불필요한 계산 비용을 줄이면서도 모델의 성능을 최적화**
-
-✅ **파킨슨병과 관련된 신규 천연물 4종 발굴 → 실제 생물학적 연구에 기여 가능성 제시**
-
-✅ **AUROC 0.7586, AUPRC 0.7240로, MLP, GCN, GAT, HAN 등 기존 모델 대비 성능 향상**
-
----
-
-### **👩‍🔧 Team**
-
-- 단독 제 1저자 연구 (석사 학위 연구)
----
-
 ![image](https://github.com/user-attachments/assets/fa67873d-60e2-42f0-a110-816fd90280ce)
 
